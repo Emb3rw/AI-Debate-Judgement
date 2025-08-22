@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+xgboost
+nltk
+textstat
+transformers
+matplotlib
+seaborn
+spacy
+textblob
+vaderSentiment
+joblib
+gradio
